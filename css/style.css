@@ -78,6 +78,17 @@ h4 {
     background-color: #71B100;
 }
 
+/*NAVBAR*/
+.navbar-brand{
+    width: 200px;
+}
+
+/*CAROUSEL*/
+.carousel-inner{
+    width: 90%;
+    margin: 5px auto;
+}
+
 
 /* Header */
 .site-header {
